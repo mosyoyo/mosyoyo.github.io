@@ -1,0 +1,2 @@
+# mosyoyo.github.io
+web
